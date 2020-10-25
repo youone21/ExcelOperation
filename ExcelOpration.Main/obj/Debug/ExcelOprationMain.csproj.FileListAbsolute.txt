@@ -1,0 +1,10 @@
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\bin\Debug\ExcelOprationMain.exe.config
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\bin\Debug\ExcelOprationMain.exe
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\bin\Debug\ExcelOprationMain.pdb
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.csprojAssemblyReference.cache
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.Form1.resources
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.Properties.Resources.resources
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.csproj.GenerateResource.cache
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.csproj.CoreCompileInputs.cache
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.exe
+F:\99.github\01.youone21\ExcelOpration\ExcelOprationMain\obj\Debug\ExcelOprationMain.pdb

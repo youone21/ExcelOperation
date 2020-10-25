@@ -3,11 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelOpration.Main", "ExcelOpration.Main\ExcelOpration.Main.csproj", "{1912B538-9EBA-4BEC-821D-3531B0C5731B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelOpration.Log4Net", "ExcelOpration.Log4Net\ExcelOpration.Log4Net.csproj", "{4135828C-AA1D-4DF5-918B-F519B54D363C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1912B538-9EBA-4BEC-821D-3531B0C5731B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1912B538-9EBA-4BEC-821D-3531B0C5731B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1912B538-9EBA-4BEC-821D-3531B0C5731B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1912B538-9EBA-4BEC-821D-3531B0C5731B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4135828C-AA1D-4DF5-918B-F519B54D363C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4135828C-AA1D-4DF5-918B-F519B54D363C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4135828C-AA1D-4DF5-918B-F519B54D363C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4135828C-AA1D-4DF5-918B-F519B54D363C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9BCEFF71-FE3B-4460-B1FA-181B3A7163E3}
+		SolutionGuid = {3E424FC8-B4E4-4BE5-B0E9-A1584C4B67D1}
 	EndGlobalSection
 EndGlobal

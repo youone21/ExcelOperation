@@ -1,0 +1,9 @@
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\bin\Debug\ExcelOpration.Log4Net.dll
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\bin\Debug\ExcelOpration.Log4Net.pdb
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\bin\Debug\log4net.dll
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\bin\Debug\log4net.xml
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\obj\Debug\ExcelOpration.Log4Net.csprojAssemblyReference.cache
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\obj\Debug\ExcelOpration.Log4Net.csproj.CoreCompileInputs.cache
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\obj\Debug\ExcelOpration.Log4Net.csproj.CopyComplete
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\obj\Debug\ExcelOpration.Log4Net.dll
+F:\99.github\01.youone21\ExcelOpration\ExcelOpration.Log4Net\obj\Debug\ExcelOpration.Log4Net.pdb
